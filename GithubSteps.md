@@ -46,8 +46,9 @@
 
 ![new button](imgs/githubNewRepo.png)
 
+---
 
-2. Choose a suitable name for your repo, and choose 'Public', then press 'Create repository'.
+### 3. Choose a suitable name for your repo, and choose 'Public', then press 'Create repository'.
 
 ![repo creation](imgs/repoMenu.png)
 
@@ -57,7 +58,6 @@
     * Upload files.
     ![fileUpload](imgs/addFiles.png)
 
-4. Write a commit message in the box and then press 'Commit changes'.
 
 ![commit](imgs/commit.png)
 
